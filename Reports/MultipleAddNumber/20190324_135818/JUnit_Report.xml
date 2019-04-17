@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="MultipleAddNumber" time="0" tests="1" failures="0" errors="0">
+   <testsuite name="MultipleAddNumber" tests="1" failures="0" errors="0" time="0" timestamp="2019-03-24 13:58:20" hostname="703219448 - 703219448GDL.IND.CORP.AD" id="Test Suites/MultipleAddNumber">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Users\\703219448\\Katalon Studio\\ATHOME\\Reports\\MultipleAddNumber\\20190324_135818"/>
+         <property name="logFiles" value="D:\\Users\\703219448\\Katalon Studio\\ATHOME\\Reports\\MultipleAddNumber\\20190324_135818\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="703219448 - 703219448GDL.IND.CORP.AD"/>
+         <property name="hostAddress" value="10.168.209.184"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.9.1.2"/>
+      </properties>
+      <testcase name="Test Cases/Assignment1/AddOperation" classname="Test Cases/Assignment1/AddOperation" status="PASSED">
+         <system-out><![CDATA[2019-03-24 13:58:20 - [TEST_CASE][PASSED] - Test Cases/Assignment1/AddOperation: Test Cases/Assignment1/AddOperation
+
+2019-03-24 13:58:21 - [TEST_STEP][PASSED] - assignment1.Number.number(Number1, Number2): assignment1.Number.number is PASSED
+
+2019-03-24 13:58:21 - [MESSAGE][PASSED] - assignment1.Number.number is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-03-24 13:58:20 - [TEST_SUITE][PASSED] - MultipleAddNumber: Test Cases/Assignment1/AddOperation]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

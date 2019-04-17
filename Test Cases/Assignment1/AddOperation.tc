@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddOperation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f553f79-fc28-4911-b746-f5b23e2ef06a</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Assignment1/AddNumber').getValue('Number1', 1)</defaultValue>
+      <description></description>
+      <id>6424134e-6547-4382-9fee-63f7b105e24a</id>
+      <masked>false</masked>
+      <name>Number1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Assignment1/AddNumber').getValue('Number2', 1)</defaultValue>
+      <description></description>
+      <id>792899fe-4d4a-47be-a7f2-ab5c10ccc710</id>
+      <masked>false</masked>
+      <name>Number2</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+HomePageTestSuite,IE 11,,2019-04-15 12:30:06,2019-04-15 12:30:17,11.464s,FAILED
+,,,,,,
+Test Cases/HomePageTestCase/GetTextOFDepartmentDropDown,IE 11,,2019-04-15 12:30:06,2019-04-15 12:30:11,5.472s,FAILED
+"callTestCase(findTestCase(""Common TestCase/OpenBrowserNavigateToURL""), [:], STOP_ON_FAILURE)",IE 11,,2019-04-15 12:30:06,2019-04-15 12:30:11,5.004s,FAILED

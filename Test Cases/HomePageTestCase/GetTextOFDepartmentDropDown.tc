@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetTextOFDepartmentDropDown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb3be6f4-af88-4edb-8639-fdd4b3b88f06</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6af4c5c0-4823-430b-b8df-84421c6ae5a5</id>
+      <masked>false</masked>
+      <name>Department</name>
+   </variable>
+</TestCaseEntity>

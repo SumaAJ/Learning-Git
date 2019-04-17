@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MovingFileFromoneFolderToAnotherFolder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6d0e846c-2a09-40e3-aba8-da2cd0f49985</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Assignment1/DataDriven').getValue('UN', 1)</defaultValue>
+      <description></description>
+      <id>2319ba45-039e-4836-a70c-bd7e38156570</id>
+      <masked>false</masked>
+      <name>un</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Assignment1/DataDriven').getValue('Psw', 1)</defaultValue>
+      <description></description>
+      <id>d00f464f-6d4e-43fa-8ddd-36252c666fe6</id>
+      <masked>false</masked>
+      <name>ps</name>
+   </variable>
+</TestCaseEntity>

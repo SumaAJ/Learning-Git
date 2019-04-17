@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HandlingAllDropDown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa0990ba-27ce-470f-bdba-fef8590ff606</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5e645e56-9a4a-44ee-8d7d-3fffc3c891b9</id>
+      <masked>false</masked>
+      <name>Department</name>
+   </variable>
+</TestCaseEntity>

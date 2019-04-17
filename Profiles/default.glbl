@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('CredentialsDetails/URL').getValue('URL', 1)</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['1234', 'suma']</initValue>
+      <name>element</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('abcd') : '34556', ('suma') : '1234']</initValue>
+      <name>mapele</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

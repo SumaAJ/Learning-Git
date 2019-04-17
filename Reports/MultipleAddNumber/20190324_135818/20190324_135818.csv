@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+MultipleAddNumber,,,2019-03-24 13:58:20,2019-03-24 13:58:21,0.979s,PASSED
+,,,,,,
+Test Cases/Assignment1/AddOperation,,,2019-03-24 13:58:20,2019-03-24 13:58:21,0.555s,PASSED
+"assignment1.Number.number(Number1, Number2)",,,2019-03-24 13:58:21,2019-03-24 13:58:21,0.023s,PASSED
