@@ -13,5 +13,5 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-CustomKeywords.'assignment1.Number.number'(4, 2)
+CustomKeywords.'assignment1.Number.number'(56, 66)
 
